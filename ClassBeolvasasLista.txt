@@ -1,0 +1,62 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Security.Cryptography.X509Certificates;
+using System.Data.Common;
+namespace emelterretsegi
+{ 
+    
+    public class Ember
+    {
+      
+        
+        
+        public string kod;
+        public int ora;
+        public int perc;
+        public string tevekenyseg;
+
+        public Ember(string adat)
+        {
+            string[] adatok = adat.Split(' ');
+            string[] elsoindex = adatok[1].Split(':');
+
+            this.kod = adatok[0];
+            this.ora = Convert.ToInt32(elsoindex[0]);
+            this.perc = Convert.ToInt32(elsoindex[1]);
+            this.tevekenyseg = adatok[2];
+
+
+        }
+
+    }
+    public class Program
+    {
+
+       public static List<Ember> Adatok = new List<Ember>();
+        static void Main(string[] args)
+        {
+
+            string[] beolvasott = File.ReadAllLines("bedat.txt");
+
+            foreach (var i in beolvasott)
+            {
+                Ember em = new Ember(i);
+                Adatok.Add(em);
+
+            }
+
+
+            for (int i = 0; i < Adatok.Count; i++) 
+            {
+                Console.WriteLine(Adatok[i].kod);
+            
+            
+            }
+
+        }
+    }
+}
