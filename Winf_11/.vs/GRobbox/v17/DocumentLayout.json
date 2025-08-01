@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\grobbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|solutionrelative:grobbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\grobbox\\3x3_gep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|solutionrelative:grobbox\\3x3_gep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\grobbox\\5x5_gep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|solutionrelative:grobbox\\5x5_gep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|c:\\users\\mil\u00E1n\\desktop\\jatek_vegso_forma\\winf_11\\grobbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03BC0AEF-E496-44D2-9355-B34C2A627385}|GRobbox\\GRobbox.csproj|solutionrelative:grobbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5x5_gep.cs",
+              "DocumentMoniker": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\5x5_gep.cs",
+              "RelativeDocumentMoniker": "GRobbox\\5x5_gep.cs",
+              "ToolTip": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\5x5_gep.cs",
+              "RelativeToolTip": "GRobbox\\5x5_gep.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAArwGsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:59:00.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3x3_gep.cs",
+              "DocumentMoniker": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\3x3_gep.cs",
+              "RelativeDocumentMoniker": "GRobbox\\3x3_gep.cs",
+              "ToolTip": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\3x3_gep.cs",
+              "RelativeToolTip": "GRobbox\\3x3_gep.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowGoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:38:10.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\Form1.cs",
+              "RelativeDocumentMoniker": "GRobbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\Form1.cs",
+              "RelativeToolTip": "GRobbox\\Form1.cs",
+              "ViewState": "AgIAANoDAAAAAAAAAAAAAN8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:03:37.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\Form1.cs",
+              "RelativeDocumentMoniker": "GRobbox\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mil\u00E1n\\Desktop\\jatek_vegso_forma\\Winf_11\\GRobbox\\Form1.cs [Design]",
+              "RelativeToolTip": "GRobbox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:55:36.378Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
